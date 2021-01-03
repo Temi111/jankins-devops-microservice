@@ -19,7 +19,7 @@ pipeline {
 
 		}
 	} post {
-		always{
+		always {
 			echo "Im awesome. I run always"
 		}
 		success {
